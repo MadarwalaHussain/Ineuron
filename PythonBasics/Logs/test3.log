@@ -1,0 +1,16 @@
+INFO:root:This is test code for log
+INFO:logger1.area1:This is info for logger1
+DEBUG:logger1.area2:This is info for logger2
+INFO:logger1.area2:This is info for logger1
+INFO:root:This is test code for log
+INFO:logger1.area1:This is info for logger1
+DEBUG:logger1.area2:This is info for logger2
+INFO:logger1.area2:This is info for logger1
+INFO:root:This is test code for log
+INFO:root:This is test code for log
+INFO:logger1.area1:This is info for logger1
+DEBUG:logger1.area2:This is info for logger2
+INFO:logger1.area2:This is info for logger1
+INFO:logger1.area1:This is info for logger1
+DEBUG:logger1.area2:This is info for logger2
+INFO:logger1.area2:This is info for logger1

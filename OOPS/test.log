@@ -1,0 +1,7 @@
+2022-02-24 20:32:32,908 - <__main__.Data object at 0x000001E5D70621C0>
+2022-02-24 20:35:23,573 - <__main__.Data object at 0x000001E5D8CB4A90>
+2022-02-24 20:43:04,969 - File Opned
+2022-02-24 20:43:11,665 - [Errno 2] No such file or directory: 'dsa'
+2022-02-24 20:50:49,609 - [Errno 2] No such file or directory: 'dataobj.fileName'
+2022-02-24 20:51:00,190 - FileRead
+2022-02-24 20:51:04,812 - FileAppended

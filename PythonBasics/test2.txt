@@ -1,0 +1,9 @@
+Machine Learningais a form of AI that enables a system to learn from data rather than through explicit programming. However, machine learning is not a simple process. As the algorithms ingest training data, it is then possible to produce more precise models based on that data. A machine-learning model is the output generated when you train your machine-learning algorithm with data. After training, when you provide a model with an input, you will be given an output. For example, a predictive algorithm will create a predictive model. Then, when you provide the predictive model with data, you will receive a prediction based on the data that trained the model.
+sa
+sa
+fs
+e32
+45445
+44
+67
+33Machine Learning is in new lineThis is hussain shabbir madarwala
